@@ -31,6 +31,8 @@ ol{
 body {
     text-align: center; /* Center aligning the content */
     background-color: gainsboro;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 .center-content {
     display: inline-block; /* Ensuring content is centered */
